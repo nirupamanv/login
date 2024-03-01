@@ -30,7 +30,7 @@ class _MyAppState extends State<MyApp> {
               SizedBox(height: 30,),
               TextField(
                 decoration:InputDecoration(
-                  hintText: 'Email address',
+                  hintText: 'Email address.',
                   border:OutlineInputBorder(),
                   filled: true,
                   fillColor:Colors.white,
